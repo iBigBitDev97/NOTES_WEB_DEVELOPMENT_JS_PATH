@@ -13,7 +13,7 @@
 ## JAVASCRIPT
 
 * [Javascript](javascript/javascript/README.md)
-  * [Page 4](javascript/javascript/page-4.md)
+  * [Introduccion a JS](javascript/javascript/introduccion-a-js.md)
   * [Page 5](javascript/javascript/page-5.md)
 
 ***
